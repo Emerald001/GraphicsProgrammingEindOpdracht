@@ -1,0 +1,7 @@
+﻿  FirstThingyForGraphicsProgramming.cpp
+C:\Users\an3s0\OneDrive\Documenten\Graphics Programming Assignments\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming\Utils.h(5,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\an3s0\OneDrive\Documenten\Graphics Programming Assignments\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming.cpp(224,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\an3s0\OneDrive\Documenten\Graphics Programming Assignments\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming.cpp(261,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\an3s0\OneDrive\Documenten\Graphics Programming Assignments\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming\FirstThingyForGraphicsProgramming.cpp(515,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  FirstThingyForGraphicsProgramming.vcxproj -> C:\Users\an3s0\OneDrive\Documenten\Graphics Programming Assignments\FirstThingyForGraphicsProgramming\x64\Debug\FirstThingyForGraphicsProgramming.exe

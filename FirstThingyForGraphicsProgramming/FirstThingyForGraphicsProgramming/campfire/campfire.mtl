@@ -1,0 +1,17 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl CampfireSG
+Ns 100.00
+Ka 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 1.00 1.00 1.00
+Ke 0.0 0.0 0.0
+Ni 1.00
+d 1.000000
+illum 4
+map_Kd diffuse.jpg
+map_Bump normal.jpg
+map_Ks specular.jpg
+map_Ka ao.jpg
+map_Ns roughness.jpg

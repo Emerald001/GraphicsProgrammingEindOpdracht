@@ -1,0 +1,17 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl BasicGrass_01
+Ns 100.00
+Ka 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 1.00 1.00 1.00
+Ke 0.0 0.0 0.0
+Ni 1.00
+d 1.000000
+illum 3
+map_Kd diffuse.png
+map_Bump normal.png
+map_Ks specular.png
+map_Ka ao.png
+map_Ns roughness.png
